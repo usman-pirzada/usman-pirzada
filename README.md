@@ -1,9 +1,3 @@
-
-- 👋 Hi, I’m @usman-pirzada
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning SE.
-- 📫 How to reach me via GitHub
-
 ![image](https://github.com/user-attachments/assets/05e826a1-275b-4ed4-9597-d438bf7ececb)
 
 
