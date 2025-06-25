@@ -1,4 +1,4 @@
-# Hello, I'm Muhammad Usman Pirzada 👋
+# Hello, I'm Muhammad Usman 👋
 
 🎓 A Computer Science student with a strong interest in **problem-solving, object-oriented design**, and building a solid foundation in **software development**.
 
